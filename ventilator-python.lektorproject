@@ -1,0 +1,9 @@
+[project]
+name = Ventilator-Python
+
+[servers.github]
+name = Live Website
+enabled = yes
+default = yes
+target = ghpages://ventilator-python/ventilator-python.github.io
+default = yes
