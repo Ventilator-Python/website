@@ -12,5 +12,5 @@ from within the repository folder, run:
 
     lektor server
 
-and visit http://localhost:5000 in your browser. The site site will react
-automatically to any changes you make.
+You can view the site at [http://localhost:5000](http://localhost:5000)and it
+will react automatically to any changes you make.
