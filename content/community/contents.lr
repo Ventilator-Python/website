@@ -1,6 +1,8 @@
 _model: page
 ---
-title: About us
+title:
+
+About us
 
 draft: yes
 ---
@@ -11,3 +13,5 @@ body:
 Gusztav Belteki
 
 Owen Campbell
+---
+draft: yes
