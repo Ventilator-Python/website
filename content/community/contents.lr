@@ -1,17 +1,9 @@
 _model: page
 ---
-title:
-
-About us
-
-draft: yes
+title: Community
 ---
 show_children: yes
 ---
-body:
-
-Gusztav Belteki
-
-Owen Campbell
+body: 
 ---
 draft: yes
